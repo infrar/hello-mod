@@ -1,4 +1,4 @@
-module kappi.dev/hello
+module github.com/infrar/hello-mod
 
 go 1.14
 
